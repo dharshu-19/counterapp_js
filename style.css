@@ -1,0 +1,21 @@
+.image{
+    background-image: url("back.webp");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 600px;
+   
+}
+.cent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ 
+h1{
+    font-style: italic;
+    font-weight:12px ;
+}
+}
+#para{
+    margin-top: -200px;
+}
